@@ -11,6 +11,8 @@ This repository provides an always up-to-date **Proxy Auto-Config (PAC)** file b
 
 ## Usage
 
-To use the auto-updating PAC file, plug the raw GitHub URL into your browser or system proxy settings:
-https://raw.githubusercontent.com/S8Y/mullvad-pac/refs/heads/main/mullvad.pac
+To use the auto-updating PAC file, plug this raw GitHub URL into your browser or system proxy settings:
+`https://raw.githubusercontent.com/S8Y/mullvad-pac/refs/heads/main/mullvad.pac`
+
+
 
